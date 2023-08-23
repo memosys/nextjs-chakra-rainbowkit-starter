@@ -3,7 +3,7 @@
 This starter template is designed to facilitate fast-paced Ethereum dApp development with Next.js, wagmi, Chakra UI, and RainbowKit. The expertise and intricacies managed by RainbowKit provide you with an effortless entry point to the world of Web3. 
 
 ## Live Demo
-Check out the live demo [here](https://nextjs-wagmi-chakra-rainbow.vercel.app/)
+Check out the live demo [here](TBD)
 
 ## Quick start in 3 steps:
 1. Generate a new project using this template
@@ -40,4 +40,4 @@ For easy deployment, use the Vercel Platform from the creators of Next.js.
 
 Feel free to reach out if you have any queries!
 
-# Readme inspired by https://github.com/Seth-McKilla/nextjs-wagmi
+######  Readme inspired by https://github.com/Seth-McKilla/nextjs-wagmi
